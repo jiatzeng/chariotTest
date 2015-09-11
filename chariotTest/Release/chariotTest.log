@@ -1,0 +1,95 @@
+﻿  dictionary.c
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\dictionary.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iniparser.c
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(336): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(565): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(577): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(578): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(579): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(583): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(585): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(597): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(604): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(646): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+..\..\..\..\..\Downloads\iniparser-3.1\iniparser\src\iniparser.c(702): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+  chariot.c
+chariot.c(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+chariot.c(434): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(437): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(449): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(536): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(642): warning C4047: 'function' : 'CHR_RUNOPTS_HANDLE *' differs in levels of indirection from 'CHR_RUNOPTS_HANDLE (*)[1024]'
+chariot.c(642): warning C4024: 'CHR_test_get_runopts' : different types for formal and actual parameter 2
+chariot.c(709): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(720): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(740): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(861): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(872): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(893): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(1018): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1021): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1033): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(1235): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1246): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1266): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(1387): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1398): warning C4018: '<' : signed/unsigned mismatch
+chariot.c(1419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+chariot.c(331): warning C4101: 'adr' : unreferenced local variable
+chariot.c(332): warning C4101: 'x' : unreferenced local variable
+chariot.c(349): warning C4101: 's' : unreferenced local variable
+chariot.c(336): warning C4101: 'areaCode' : unreferenced local variable
+chariot.c(327): warning C4101: 'fp' : unreferenced local variable
+chariot.c(337): warning C4101: 'code' : unreferenced local variable
+chariot.c(334): warning C4101: 'tel' : unreferenced local variable
+chariot.c(330): warning C4101: 'adr1' : unreferenced local variable
+chariot.c(378): warning C4101: 'avg' : unreferenced local variable
+chariot.c(338): warning C4101: 'age' : unreferenced local variable
+chariot.c(288): warning C4101: 'tmp' : unreferenced local variable
+chariot.c(333): warning C4101: 'name' : unreferenced local variable
+chariot.c(287): warning C4101: 'str1' : unreferenced local variable
+chariot.c(346): warning C4101: 'b' : unreferenced local variable
+chariot.c(326): warning C4101: 'buf' : unreferenced local variable
+chariot.c(335): warning C4101: 'field' : unreferenced local variable
+chariot.c(287): warning C4101: 'str2' : unreferenced local variable
+chariot.c(286): warning C4101: 'setting' : unreferenced local variable
+chariot.c(348): warning C4101: 'd' : unreferenced local variable
+chariot.c(285): warning C4101: 'cfg' : unreferenced local variable
+chariot.c(328): warning C4101: 'ch' : unreferenced local variable
+chariot.c(325): warning C4101: 'ptr_file' : unreferenced local variable
+chariot.c(1580): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+chariot.c(1584): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+chariot.c(1627): warning C4101: 'count_result' : unreferenced local variable
+chariot.c(1989): warning C4101: 'pairindex' : unreferenced local variable
+chariot.c(1989): warning C4101: 'minvalue' : unreferenced local variable
+chariot.c(1990): warning C4101: 'format' : unreferenced local variable
+chariot.c(1989): warning C4101: 'maxvalue' : unreferenced local variable
+chariot.c(1988): warning C4101: 'result' : unreferenced local variable
+chariot.c(1989): warning C4101: 'number' : unreferenced local variable
+  Generating code
+  Finished generating code
+  chariotTest.vcxproj -> C:\Users\PA-Andy\Documents\Visual Studio 2010\Projects\chariotTest\Release\chariotTest.exe

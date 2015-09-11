@@ -1,0 +1,59 @@
+
+
+Wed Aug 19 11:55:55 2015
+ test_save failed
+Wed Aug 19 11:55:55 2015
+ Error was detected at Wed Aug 19 11:55:55 2015
+Error was detected by the Console.
+The return code was 7.
+CHR0117: An attempt was made to read or write a file that could not be found.
+Error while working with file: TXRX_H.tst
+
+
+Error was detected at line 638 of file:
+    "$Id: //ral_depot/products/IxChariot5.20.7/COMMON/code/file.c#1 $"
+Call traceback:
+     0 main
+     1 CHR_test_save
+     2 chrapi_test_save
+     3 file_open
+     4 errmap_map_errno_extended
+
+Wed Aug 19 11:56:11 2015
+ test_save failed
+Wed Aug 19 11:56:11 2015
+ Error was detected at Wed Aug 19 11:56:11 2015
+Error was detected by the Console.
+The return code was 7.
+CHR0117: An attempt was made to read or write a file that could not be found.
+Error while working with file: TXRX_H.tst
+
+
+Error was detected at line 638 of file:
+    "$Id: //ral_depot/products/IxChariot5.20.7/COMMON/code/file.c#1 $"
+Call traceback:
+     0 main
+     1 CHR_test_save
+     2 chrapi_test_save
+     3 file_open
+     4 errmap_map_errno_extended
+
+Wed Aug 19 11:56:49 2015
+ test_save failed
+Wed Aug 19 11:56:49 2015
+ Error was detected at Wed Aug 19 11:56:49 2015
+Error was detected by the Console.
+The return code was 7.
+CHR0117: An attempt was made to read or write a file that could not be found.
+Error while working with file: TXRX_H.tst
+
+
+Error was detected at line 638 of file:
+    "$Id: //ral_depot/products/IxChariot5.20.7/COMMON/code/file.c#1 $"
+Call traceback:
+     0 main
+     1 CHR_test_save
+     2 chrapi_test_save
+     3 file_open
+     4 errmap_map_errno_extended
+

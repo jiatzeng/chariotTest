@@ -1,0 +1,291 @@
+====  Thu Aug 13 04:14:34 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7160
+====  Thu Aug 13 04:14:34 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 CHR_test_start
+     2 testrun_start
+     3 testrun_init_run_info
+     4 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7160
+====  Thu Aug 13 04:16:06 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 8244
+====  Thu Aug 13 05:35:34 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 6932
+====  Thu Aug 13 05:51:19 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 8312
+====  Thu Aug 13 22:20:31 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 2468
+====  Thu Aug 13 23:19:20 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7460
+====  Thu Aug 13 23:27:51 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 2456
+====  Thu Aug 13 23:44:49 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7436
+====  Thu Aug 13 23:48:06 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 9856
+====  Fri Aug 14 01:17:16 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 6736
+====  Fri Aug 14 02:01:14 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7192
+====  Fri Aug 14 02:47:22 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 8648
+====  Fri Aug 14 02:55:06 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 8348
+====  Fri Aug 14 03:00:07 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 6012
+====  Fri Aug 14 03:02:55 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 5780
+====  Fri Aug 14 03:11:28 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 1824
+====  Fri Aug 14 03:42:08 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 9328
+====  Fri Aug 14 03:43:41 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 9920
+====  Fri Aug 14 03:55:51 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7452
+====  Fri Aug 14 04:01:26 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7964
+====  Fri Aug 14 05:11:52 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 4944
+====  Sun Aug 16 21:54:13 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 6372
+====  Sun Aug 16 22:10:51 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 1916
+====  Sun Aug 16 22:16:21 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7356
+====  Sun Aug 16 22:18:59 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7608
+====  Sun Aug 16 22:19:34 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 936
+====  Sun Aug 16 22:22:41 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7408
+====  Sun Aug 16 22:32:42 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 6436
+====  Sun Aug 16 22:43:02 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7236
+====  Sun Aug 16 22:45:03 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 7576
+====  Sun Aug 16 22:47:17 2015
+$Id: //ral_depot/products/IxChariot6.70.27/CHARIOT/CODE/prof_ioc.cpp#3 $, line: 1463
+Failed assertion: RegCreateKeyEx:No error text is available.
+Last WIN32 error: 0x00000000
+Call traceback:
+     0 main
+     1 profile_load_from_file(const profile_descriptor)
+Build level: 44
+Thread ID: 1228

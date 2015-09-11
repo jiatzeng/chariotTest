@@ -1,0 +1,11 @@
+//config.txt
+// Basic Information:
+filename = "Sample Configuration File";
+ 
+// Parameters
+params = 
+{
+param1 = "Hello";
+ 
+param2 = 1234;
+};
